@@ -97,9 +97,9 @@ class AddressBook{
 
 let addressBookArr = new Array()
 try{
-let contact1 = new AddressBook("Abhishek","Rawane","Akola","kaulkhed","maharashtra",444001,1234567890,"AbhiRawane@gmail.com")
-let contact2 = new AddressBook("Shymal","Nakate","Kolhapur","kaulkhed","maharashtra",416416,8888856469,"shymal@gmail.com")
-let contact3 = new AddressBook("Ovi","joshi","sangli","kaulkhed","maharashtra",445060,8208654985,"oviJoshi11@gmail.com")
+let contact1 = new AddressBook("Dhanashree","Hakke","sangli","kavalapur","maharashtra",416416,1234567890,"dhanashreehakke7@gmail.com")
+let contact2 = new AddressBook("Sampada","Hakke","sangli","kavalapur","maharashtra",416416,1234567890,"sampadahakke7@gmail.com")
+let contact3 = new AddressBook("Ovi","Yamgar","sangli","kavalapur","maharashtra",416416,1234567890,"ovoyamgar7@gmail.com")
 addressBookArr.push(contact1);
 addressBookArr.push(contact2);
 addressBookArr.push(contact3);
